@@ -7,3 +7,11 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+span {
+  font-weight: bold;
+  font-style: normal;
+  color: red;
+  font-size: 3em;
+  background-color: green;
+}
